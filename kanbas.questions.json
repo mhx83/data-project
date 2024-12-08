@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6753b625cfc62740f37b24d9"
+  },
+  "type": "fill in the blank",
+  "quiz": {
+    "$oid": "6753b621cfc62740f37b24cb"
+  },
+  "description": "<p>cars</p>",
+  "points": 1,
+  "possible_answers": [
+    "BMW",
+    "Mercedes",
+    "Audi"
+  ],
+  "correct_answer": "BMW",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6753b85bcfc62740f37b25ed"
+  },
+  "type": "true or false",
+  "quiz": {
+    "$oid": "6753b621cfc62740f37b24cb"
+  },
+  "description": "<p>tst</p>",
+  "points": 1,
+  "possible_answers": [],
+  "correct_answer": "true",
+  "__v": 0
+}]

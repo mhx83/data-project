@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "675385c9bea7458a28635ff0"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fce"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635fae"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675385c9bea7458a28635ff1"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fce"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635faf"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675385c9bea7458a28635ff2"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fce"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635fb0"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675385c9bea7458a28635ff3"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fce"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635fb1"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675385c9bea7458a28635ff4"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fce"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635fb2"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675385c9bea7458a28635ff5"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fcf"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635faf"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675385c9bea7458a28635ff6"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fcf"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635fb4"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675385c9bea7458a28635ff7"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fcf"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635fb5"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675385c9bea7458a28635ff8"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fcf"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635fae"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675386bda941677a44c5a20e"
+  },
+  "course": {
+    "$oid": "675374afbea7458a28635fd8"
+  },
+  "user": {
+    "$oid": "67537348bea7458a28635fae"
+  },
+  "status": "ENROLLED",
+  "__v": 0
+}]

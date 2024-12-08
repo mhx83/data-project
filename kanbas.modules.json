@@ -1,0 +1,639 @@
+[{
+  "_id": {
+    "$oid": "675385e6bea7458a28635ffb"
+  },
+  "name": "Introduction to Rocket Propulsion",
+  "description": "Basic principles of rocket propulsion and rocket engines.",
+  "course": {
+    "$oid": "675374afbea7458a28635fce"
+  },
+  "lessons": [
+    {
+      "name": "History of Rocketry",
+      "description": "A brief history of rocketry and space exploration.",
+      "module": "M101"
+    },
+    {
+      "name": "Rocket Propulsion Fundamentals",
+      "description": "Basic principles of rocket propulsion.",
+      "module": "M101"
+    },
+    {
+      "name": "Rocket Engine Types",
+      "description": "Overview of different types of rocket engines.",
+      "module": "M101"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28635ffc"
+  },
+  "name": "Fuel and Combustion",
+  "description": "Understanding rocket fuel, combustion processes, and efficiency.",
+  "course": {
+    "$oid": "675374afbea7458a28635fce"
+  },
+  "lessons": [
+    {
+      "name": "Rocket Fuel",
+      "description": "Overview of different types of rocket fuels.",
+      "module": "M102"
+    },
+    {
+      "name": "Combustion Processes",
+      "description": "Understanding combustion processes and efficiency.",
+      "module": "M102"
+    },
+    {
+      "name": "Combustion Instability",
+      "description": "Understanding combustion instability and mitigation.",
+      "module": "M102"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28635ffd"
+  },
+  "name": "Nozzle Design",
+  "description": "Principles of rocket nozzle design and performance optimization.",
+  "course": {
+    "$oid": "675374afbea7458a28635fce"
+  },
+  "lessons": [
+    {
+      "name": "Nozzle Design",
+      "description": "Overview of different types of rocket nozzles.",
+      "module": "M103"
+    },
+    {
+      "name": "Nozzle Performance",
+      "description": "Understanding nozzle performance and efficiency.",
+      "module": "M103"
+    },
+    {
+      "name": "Nozzle Optimization",
+      "description": "Optimizing nozzle design for specific applications.",
+      "module": "M103"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28635ffe"
+  },
+  "name": "Fundamentals of Aerodynamics",
+  "description": "Basic aerodynamic concepts and fluid dynamics principles.",
+  "course": {
+    "$oid": "675374afbea7458a28635fcf"
+  },
+  "lessons": [
+    {
+      "name": "Introduction to Fluid Dynamics",
+      "description": "Understanding the basics of fluid motion and its application in aerodynamics.",
+      "module": "M201"
+    },
+    {
+      "name": "Airflow Around Objects",
+      "description": "Study of how airflow behaves around different aerodynamic shapes.",
+      "module": "M201"
+    },
+    {
+      "name": "Pressure and Velocity Fields",
+      "description": "An exploration of pressure and velocity distribution in aerodynamic contexts.",
+      "module": "M201"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28635fff"
+  },
+  "name": "Subsonic and Supersonic Flow",
+  "description": "Understanding subsonic and supersonic aerodynamic behaviors.",
+  "course": {
+    "$oid": "675374afbea7458a28635fcf"
+  },
+  "lessons": [
+    {
+      "name": "Subsonic Flow Characteristics",
+      "description": "In-depth study of subsonic flow and its applications in aircraft design.",
+      "module": "M202"
+    },
+    {
+      "name": "Supersonic Flow and Shock Waves",
+      "description": "Exploring the effects of supersonic flow, including shock waves and expansion fans.",
+      "module": "M202"
+    },
+    {
+      "name": "Compressibility Effects in Aerodynamics",
+      "description": "Analysis of how compressibility affects both subsonic and supersonic flows.",
+      "module": "M202"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636000"
+  },
+  "name": "Aerodynamic Heating",
+  "description": "Study of aerodynamic heating and thermal protection systems.",
+  "course": {
+    "$oid": "675374afbea7458a28635fcf"
+  },
+  "lessons": [
+    {
+      "name": "Causes of Aerodynamic Heating",
+      "description": "Understanding the physical causes behind aerodynamic heating in high-speed flights.",
+      "module": "M203"
+    },
+    {
+      "name": "Thermal Protection Systems",
+      "description": "Introduction to the design and application of thermal protection systems in aviation.",
+      "module": "M203"
+    },
+    {
+      "name": "Case Studies of Heat Management",
+      "description": "Examination of real-world cases in managing heat on high-speed aircraft.",
+      "module": "M203"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636001"
+  },
+  "name": "Spacecraft Structural Design",
+  "description": "Fundamentals of designing spacecraft structures and materials selection.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd0"
+  },
+  "lessons": [
+    {
+      "name": "Structural Load Analysis",
+      "description": "Understanding structural loads on spacecraft during various mission phases.",
+      "module": "M301"
+    },
+    {
+      "name": "Material Selection for Spacecraft",
+      "description": "Exploring materials suitable for spacecraft construction under extreme conditions.",
+      "module": "M301"
+    },
+    {
+      "name": "Design of Lightweight Structures",
+      "description": "Principles of designing lightweight yet strong structures for space applications.",
+      "module": "M301"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636002"
+  },
+  "name": "Orbital Mechanics",
+  "description": "Understanding orbital dynamics and mission planning.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd0"
+  },
+  "lessons": [
+    {
+      "name": "Basics of Orbital Motion",
+      "description": "Introduction to the fundamentals of orbital motion and satellite trajectories.",
+      "module": "M302"
+    },
+    {
+      "name": "Orbit Transfers and Maneuvers",
+      "description": "Exploring different types of orbital maneuvers and how they are executed.",
+      "module": "M302"
+    },
+    {
+      "name": "Mission Planning and Optimization",
+      "description": "Mission planning strategies for optimal spacecraft operations.",
+      "module": "M302"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636003"
+  },
+  "name": "Spacecraft Systems Engineering",
+  "description": "Overview of spacecraft systems and subsystems engineering.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd0"
+  },
+  "lessons": [
+    {
+      "name": "Power Systems in Spacecraft",
+      "description": "Understanding spacecraft power generation and storage systems.",
+      "module": "M303"
+    },
+    {
+      "name": "Thermal Control Systems",
+      "description": "Exploring different thermal control strategies in spacecraft design.",
+      "module": "M303"
+    },
+    {
+      "name": "Communication and Navigation Systems",
+      "description": "An introduction to spacecraft communication and navigation systems.",
+      "module": "M303"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636004"
+  },
+  "name": "Organic Chemistry Essentials",
+  "description": "Core principles of organic chemistry.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd1"
+  },
+  "lessons": [
+    {
+      "name": "Introduction to Hydrocarbons",
+      "description": "Exploring the structure and types of hydrocarbons.",
+      "module": "M401"
+    },
+    {
+      "name": "Functional Groups in Organic Chemistry",
+      "description": "Understanding functional groups and their chemical behavior.",
+      "module": "M401"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636005"
+  },
+  "name": "Inorganic Chemistry Fundamentals",
+  "description": "Key topics in inorganic chemistry, including bonding and complex formation.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd2"
+  },
+  "lessons": [
+    {
+      "name": "Bonding Theories",
+      "description": "Overview of different bonding theories in inorganic chemistry.",
+      "module": "M402"
+    },
+    {
+      "name": "Metal Complexes and Coordination Chemistry",
+      "description": "Study of metal complexes and their properties.",
+      "module": "M402"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636006"
+  },
+  "name": "Physical Chemistry Concepts",
+  "description": "An introduction to the principles of physical chemistry.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd3"
+  },
+  "lessons": [
+    {
+      "name": "Thermodynamics and Energy Transfer",
+      "description": "Fundamentals of thermodynamics in physical chemistry.",
+      "module": "M403"
+    },
+    {
+      "name": "Quantum Chemistry Basics",
+      "description": "Exploring quantum mechanics applications in chemistry.",
+      "module": "M403"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636007"
+  },
+  "name": "Ancient Languages of Middle-earth",
+  "description": "An in-depth look at the languages and scripts of Middle-earth.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd4"
+  },
+  "lessons": [
+    {
+      "name": "Elvish Languages",
+      "description": "Introduction to the structure and usage of Sindarin and Quenya.",
+      "module": "M404"
+    },
+    {
+      "name": "Dwarvish Language",
+      "description": "Understanding Khuzdul, the secretive language of the Dwarves.",
+      "module": "M404"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636008"
+  },
+  "name": "Diplomacy in Middle-earth",
+  "description": "Study of diplomacy and alliances between races in Middle-earth.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd5"
+  },
+  "lessons": [
+    {
+      "name": "Council of Elrond",
+      "description": "Analysis of the key diplomatic event during the War of the Ring.",
+      "module": "M405"
+    },
+    {
+      "name": "Historical Alliances",
+      "description": "Examining alliances between Elves, Men, and Dwarves.",
+      "module": "M405"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636009"
+  },
+  "name": "Magic and Mysticism in Middle-earth",
+  "description": "Exploration of the sources and practices of magic in Middle-earth.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd6"
+  },
+  "lessons": [
+    {
+      "name": "Wizards and their Powers",
+      "description": "Study of the wizards' magic and influence in Middle-earth.",
+      "module": "M406"
+    },
+    {
+      "name": "Artifacts of Power",
+      "description": "Exploring magical artifacts such as the Rings of Power and Palantíri.",
+      "module": "M406"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a2863600a"
+  },
+  "name": "Principles of Democratic Education",
+  "description": "Key principles and models of democratic education.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd7"
+  },
+  "lessons": [
+    {
+      "name": "Historical Models of Democratic Education",
+      "description": "An overview of historical approaches to democratic schooling.",
+      "module": "M407"
+    },
+    {
+      "name": "Participatory Learning",
+      "description": "Study of participatory learning techniques in democratic education.",
+      "module": "M407"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a2863600b"
+  },
+  "name": "Philosophy of Independence",
+  "description": "Study of philosophical foundations of independence and liberation movements.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd8"
+  },
+  "lessons": [
+    {
+      "name": "The Enlightenment and Independence Movements",
+      "description": "Examining how Enlightenment thought influenced Latin American independence.",
+      "module": "M408"
+    },
+    {
+      "name": "Simón Bolívar's Ideology",
+      "description": "In-depth study of Simón Bolívar’s contributions to independence movements.",
+      "module": "M408"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a2863600c"
+  },
+  "name": "Innovations in 19th Century Education",
+  "description": "Key educational innovations during the early 19th century.",
+  "course": {
+    "$oid": "675374afbea7458a28635fd9"
+  },
+  "lessons": [
+    {
+      "name": "Simon Rodríguez's Educational Reforms",
+      "description": "Exploring the educational reforms proposed by Simon Rodríguez.",
+      "module": "M409"
+    },
+    {
+      "name": "Evolution of Pedagogical Methods",
+      "description": "Study of the evolution of teaching methods during the 19th century.",
+      "module": "M409"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a2863600d"
+  },
+  "name": "Foundations of Christian Ethics",
+  "description": "Exploring core principles of Christian ethics and their modern applications.",
+  "course": {
+    "$oid": "675374afbea7458a28635fda"
+  },
+  "lessons": [
+    {
+      "name": "Moral Decision Making in Christianity",
+      "description": "Study of Christian moral frameworks for decision-making.",
+      "module": "M410"
+    },
+    {
+      "name": "Virtues and Vices in Christian Thought",
+      "description": "Exploring key virtues and vices in Christian theology.",
+      "module": "M410"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a2863600e"
+  },
+  "name": "Early Christianity and Apostolic Age",
+  "description": "History and development of early Christian communities.",
+  "course": {
+    "$oid": "675374afbea7458a28635fdb"
+  },
+  "lessons": [
+    {
+      "name": "The Apostles' Mission",
+      "description": "Study of the role of the Apostles in the spread of early Christianity.",
+      "module": "M411"
+    },
+    {
+      "name": "Formation of Christian Doctrines",
+      "description": "An exploration of the formation of key Christian doctrines.",
+      "module": "M411"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a2863600f"
+  },
+  "name": "Leadership in Christian Communities",
+  "description": "Principles of leadership and service in Christian communities.",
+  "course": {
+    "$oid": "675374afbea7458a28635fdc"
+  },
+  "lessons": [
+    {
+      "name": "Servant Leadership in Christian Teachings",
+      "description": "Exploring the concept of servant leadership in Christian ministry.",
+      "module": "M412"
+    },
+    {
+      "name": "Pastoral Care and Community Building",
+      "description": "Study of effective pastoral care and community leadership strategies.",
+      "module": "M412"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636010"
+  },
+  "name": "Sufi Philosophy and Mysticism",
+  "description": "An exploration of the key teachings and practices of Sufism.",
+  "course": {
+    "$oid": "675374afbea7458a28635fdd"
+  },
+  "lessons": [
+    {
+      "name": "Teachings of Rumi and Hafiz",
+      "description": "Study of the spiritual teachings of Rumi and Hafiz.",
+      "module": "M413"
+    },
+    {
+      "name": "Mystical Practices in Sufism",
+      "description": "Exploring the mystical practices and rituals in Sufi traditions.",
+      "module": "M413"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636011"
+  },
+  "name": "Ethics in Islamic Teachings",
+  "description": "Core ethical principles found in the Quran and Hadith.",
+  "course": {
+    "$oid": "675374afbea7458a28635fde"
+  },
+  "lessons": [
+    {
+      "name": "Divine Guidance and Free Will",
+      "description": "Exploring the balance between divine guidance and free will in Islam.",
+      "module": "M414"
+    },
+    {
+      "name": "Moral Reasoning in Islamic Tradition",
+      "description": "Study of moral reasoning and its application in contemporary ethics.",
+      "module": "M414"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636012"
+  },
+  "name": "Islamic Esotericism",
+  "description": "Exploring the hidden aspects of Islamic teachings and spirituality.",
+  "course": {
+    "$oid": "675374afbea7458a28635fdf"
+  },
+  "lessons": [
+    {
+      "name": "Symbolism in Islamic Texts",
+      "description": "Study of spiritual symbolism in the Quran and Hadith.",
+      "module": "M415"
+    },
+    {
+      "name": "Esoteric Practices in Islamic Mysticism",
+      "description": "Exploring esoteric practices and their role in Islamic spirituality.",
+      "module": "M415"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636013"
+  },
+  "name": "Environmental Management in Ancient China",
+  "description": "Study of environmental practices in ancient China.",
+  "course": {
+    "$oid": "675374afbea7458a28635fe0"
+  },
+  "lessons": [
+    {
+      "name": "Water Management and Irrigation",
+      "description": "Exploring ancient Chinese water management techniques.",
+      "module": "M416"
+    },
+    {
+      "name": "Yu the Great's Contributions",
+      "description": "Study of Yu the Great's role in flood control and environmental management.",
+      "module": "M416"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636014"
+  },
+  "name": "Leadership Lessons from Chinese Mythology",
+  "description": "Exploring leadership principles in Chinese mythology.",
+  "course": {
+    "$oid": "675374afbea7458a28635fe1"
+  },
+  "lessons": [
+    {
+      "name": "Leadership Qualities of Yu the Great",
+      "description": "An exploration of Yu the Great’s leadership qualities and legacy.",
+      "module": "M417"
+    },
+    {
+      "name": "Mythological Lessons on Ethical Governance",
+      "description": "Study of mythological figures and their lessons on ethical leadership.",
+      "module": "M417"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "675385e6bea7458a28636015"
+  },
+  "name": "Ancient Hydraulic Engineering",
+  "description": "Study of hydraulic engineering techniques in ancient civilizations.",
+  "course": {
+    "$oid": "675374afbea7458a28635fe2"
+  },
+  "lessons": [
+    {
+      "name": "Yu the Great's Hydraulic Projects",
+      "description": "Overview of Yu the Great's flood control and irrigation systems.",
+      "module": "M418"
+    },
+    {
+      "name": "Comparative Studies of Ancient Civilizations",
+      "description": "Comparative analysis of hydraulic engineering in Mesopotamia, the Indus Valley, and China.",
+      "module": "M418"
+    }
+  ]
+}]

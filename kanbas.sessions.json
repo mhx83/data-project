@@ -1,0 +1,21 @@
+[{
+  "_id": "VwXObHuG3S8l1J8vcI7enWAn7omsh-pa",
+  "expires": {
+    "$date": "2024-12-21T02:01:59.386Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"currentUser\":{\"_id\":\"67537348bea7458a28635fae\",\"username\":\"iron_man\",\"password\":\"stark123\",\"firstName\":\"Tony\",\"lastName\":\"Stark\",\"email\":\"tony@stark.com\",\"dob\":\"1970-05-29T00:00:00.000Z\",\"role\":\"STUDENT\",\"loginId\":\"001234561S\",\"section\":\"S101\",\"lastActivity\":\"2020-10-01T00:00:00.000Z\",\"totalActivity\":\"10:21:32\"}}"
+},
+{
+  "_id": "0nW0w7nJP82SmX8IS5e7WuLlGUkCWq65",
+  "expires": {
+    "$date": "2024-12-21T05:26:51.072Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"currentUser\":{\"_id\":\"67537348bea7458a28635fae\",\"username\":\"iron_man\",\"password\":\"stark123\",\"firstName\":\"Tony\",\"lastName\":\"Stark\",\"email\":\"tony@stark.com\",\"dob\":\"1970-05-29T00:00:00.000Z\",\"role\":\"FACULTY\",\"loginId\":\"001234561S\",\"section\":\"S101\",\"lastActivity\":\"2020-10-01T00:00:00.000Z\",\"totalActivity\":\"10:21:32\"}}"
+},
+{
+  "_id": "qJ1jdIJETHa9YwJkIqGhM6OSBIbaYaUu",
+  "expires": {
+    "$date": "2024-12-21T21:05:35.323Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":null,\"expires\":null,\"httpOnly\":true,\"path\":\"/\"},\"currentUser\":{\"_id\":\"67537348bea7458a28635fae\",\"username\":\"iron_man\",\"password\":\"stark123\",\"firstName\":\"Tony\",\"lastName\":\"Stark\",\"email\":\"tony@stark.com\",\"dob\":\"1970-05-29T00:00:00.000Z\",\"role\":\"ADMIN\",\"loginId\":\"001234561S\",\"section\":\"S101\",\"lastActivity\":\"2020-10-01T00:00:00.000Z\",\"totalActivity\":\"10:21:32\"}}"
+}]

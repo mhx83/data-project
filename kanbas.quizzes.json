@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6753b621cfc62740f37b24cb"
+  },
+  "name": "New111",
+  "course": {
+    "$oid": "675374afbea7458a28635fce"
+  },
+  "num_of_questions": 2,
+  "quiz_type": "Graded Quiz",
+  "points": 2,
+  "assignment_group": "QUIZZES",
+  "shuffle_answer": "no",
+  "has_time_limit": "yes",
+  "time_limit": 20,
+  "has_many_attempts": "yes",
+  "how_many_attempts": 1,
+  "show_correct_answer": "no",
+  "access_code": "blank",
+  "one_question_at_a_time": "yes",
+  "webcam_required": "no",
+  "lock_questions_after_answering": "no",
+  "due_date": {
+    "$date": "2025-05-14T00:00:00.000Z"
+  },
+  "available_date": {
+    "$date": "2025-05-07T00:00:00.000Z"
+  },
+  "until_date": {
+    "$date": "2025-05-14T00:00:00.000Z"
+  },
+  "publish_status": "published",
+  "__v": 0,
+  "show_answer_date": {
+    "$date": {
+      "$numberLong": "253402329540000"
+    }
+  },
+  "instruction": "<p>222</p>"
+}]
